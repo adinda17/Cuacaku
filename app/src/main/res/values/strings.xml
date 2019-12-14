@@ -1,0 +1,65 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cuacaku</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_hujan">Hujan</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_berawan">Berawan</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_panas">Panas</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_cerah">Cerah</string>
+    <string name="title_activity_hujan">HujanActivity</string>
+    <string name="initial_quantity_value">0</string>
+    <!-- Hint text display in the empty field for the user's friend name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+    <!-- CHECK BOX -->
+    <string name="family">Keluarga</string>
+    <string name="pacar">Pacar</string>
+    <string name="stranger">Orang Asing</string>
+    <string name="teman">Teman</string>
+    <string name="cerita">Cerita</string>
+    <!-- CHECK BOX -->
+    <string name="kirim">Kirim ! </string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_cerita">Cerita: <xliff:g id="cerita" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_family">Family make you happy? <xliff:g id="addFamily" example="true">%b</xliff:g></string>
+    <string name="order_summary_pacar">Pacar make you happy? <xliff:g id="addPacar" example="true">%b</xliff:g></string>
+    <string name="order_summary_stranger">Stranger make you happy? <xliff:g id="addStranger" example="true">%b</xliff:g></string>
+    <string name="order_summary_teman">Teman make you happy? <xliff:g id="addTeman" example="true">%b</xliff:g></string>
+
+    <string name="order_summary_quantity">Jumlah orang yang membuatmu bahagia: <xliff:g id="Jumlah orang yang membuatmu bahagia" example="0">%d</xliff:g></string>
+    <string name="order_summary_price">Total poin bahagia mu: <xliff:g id="price" example="10000">%s</xliff:g></string>
+
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+
+    <!-- MARAH. [CHAR LIMIT=NONE] -->
+    <string name="order_summary_quantity3">Jumlah orang yang membuatmu marah: <xliff:g id="Jumlah orang yang membuatmu marah" example="0">%d</xliff:g></string>
+    <string name="order_summary_price3">Total poin kemarahan mu: <xliff:g id="price" example="10000">%s</xliff:g></string>
+    <string name="order_summary_family3">Family make you angry? <xliff:g id="addFamily" example="true">%b</xliff:g></string>
+    <string name="order_summary_pacar3">Pacar make you angry? <xliff:g id="addPacar" example="true">%b</xliff:g></string>
+    <string name="order_summary_stranger3">Stranger make you angry? <xliff:g id="addStranger" example="true">%b</xliff:g></string>
+    <string name="order_summary_teman3">Teman make you angry? <xliff:g id="addTeman" example="true">%b</xliff:g></string>
+    <string name="order_summary_email_subject3">Catatan harian yang bikin kamu marah <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <!--
+      Subject line for the order summary email. It will be in the format of
+      "Just Java order for Amy" where Amy is the user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_email_subject">Catatan harian yang bikin kamu happy <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <!-- SEDIH. [CHAR LIMIT=NONE] -->
+    <string name="order_summary_quantity2">Jumlah orang yang membuatmu sedih: <xliff:g id="Jumlah orang yang membuatmu sedih" example="0">%d</xliff:g></string>
+    <string name="order_summary_price2">Total poin kesedihan mu: <xliff:g id="price" example="10000">%s</xliff:g></string>
+    <string name="order_summary_family2">Family make you sad? <xliff:g id="addFamily" example="true">%b</xliff:g></string>
+    <string name="order_summary_pacar2">Pacar make you sad? <xliff:g id="addPacar" example="true">%b</xliff:g></string>
+    <string name="order_summary_stranger2">Stranger make you sad? <xliff:g id="addStranger" example="true">%b</xliff:g></string>
+    <string name="order_summary_teman2">Teman make you sad? <xliff:g id="addTeman" example="true">%b</xliff:g></string>
+    <string name="order_summary_email_subject2">Catatan harian yang bikin kamu sedih <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_lagucerah">Lagu Bahagia</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
